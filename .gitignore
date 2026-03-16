@@ -1,0 +1,11 @@
+# Erlang
+/ebin/
+/deps/
+/_build/
+*.erl~
+*.beam
+*.log
+*.dump
+*.plt
+*.dump
+*.gz
